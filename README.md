@@ -4,7 +4,7 @@
 #
 <div align="center"><img src="welcome-page.png" height="500px"></div>
 
-## Hey, there this is us <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
+## Hi there, We are CareX <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
 > We are <b><i>Care X</i></b>. Your Personal Health Care Solution.
 
@@ -18,7 +18,7 @@
 <img src="care-x_logo.png" height="150px">
 
 #
-> Our official website :- [www.care-x.lk](https://care-x.github.io/landing-page)
+> Our official website :- [www.CareX.lk](https://care-x.github.io/landing-page)
 
 > Download Our Android App :- [CareX App](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)
 
