@@ -46,4 +46,4 @@
 
 
 #
-<div align="center">© 2022 Copyright: <b><i>CareX </i></b> All Rights Reserved</div>
+<div align="center">© 2022 Copyright: <b><i>CareX</i></b> All Rights Reserved</div>
