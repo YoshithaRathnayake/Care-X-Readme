@@ -23,3 +23,6 @@
 > Download Our Android App - [CareX App](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)
 
 > Try and enjoy it.
+
+#
+<div align="center">© 2022 Copyright: <b><i>CareX</i></b> All Rights Reserved</div>
