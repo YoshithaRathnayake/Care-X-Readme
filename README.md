@@ -10,9 +10,16 @@
 
 > This is the App we created to protect your health.
 
-> Hope you install it to your phone and enjoy it.
+> You can enjoy our app free of charge.
 
 #
 ## Features
 
-<img src="care-x_logo.png">
+<img src="care-x_logo.png" height="150px">
+
+#
+> Our official website - [www.care-x.lk](https://care-x.github.io/landing-page)
+
+> Download Our Android App - [CareX App](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)
+
+> Try and enjoy it.
