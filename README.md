@@ -2,7 +2,7 @@
 <div align="center">Your Personal Health Care Solution</div>
 
 #
-<div align="center"><img src="img/welcome-page.png" height="500px"></div>
+<div align="center"><img src="welcome-page.png" height="500px"></div>
 
 ## Hey, there this is us <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
@@ -15,4 +15,4 @@
 #
 ## Features
 
-<img src="img/care-x_logo.png">
+<img src="care-x_logo.png">
