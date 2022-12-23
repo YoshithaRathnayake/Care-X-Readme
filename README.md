@@ -37,7 +37,7 @@
 
 > Email :- <span title="Email">[***carexnextgen@gmail.com***](mailto:carexnextgen@gmail.com)</span>
 
-> Telephone Numbers :- <b><i>+94 76 110 8370</b></i>, <b><i>+94 77 923 1057</b></i>, <b><i>+94 77 883 2642</b></i>
+> Telephone Numbers :- ***+94 76 110 8370, +94 77 923 1057, +94 77 883 2642***
 
 #
 ## Follow Us on Social Media
