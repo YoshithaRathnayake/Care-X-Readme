@@ -46,4 +46,4 @@
 
 
 #
-<div align="center">© 2022 Copyright: <b><i>CareX</i></b> All Rights Reserved</div>
+<div align="center">© 2022 Copyright: <a href="https://care-x.github.io/landing-page" title="CareX"><b><i>CareX</i></b></a> All Rights Reserved</div>
