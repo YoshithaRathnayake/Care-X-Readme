@@ -15,7 +15,7 @@
 #
 ## Features
 
-<img src="care-x_logo.png" height="150px">
+<img src="care-x_logo.png" height="150px" title="Our Logo">
 
 #
 > Our official website :- [www.CareX.lk](https://care-x.github.io/landing-page)
