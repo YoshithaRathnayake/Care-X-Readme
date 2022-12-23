@@ -20,7 +20,7 @@
 #
 > Our official website :- <span title="Our official website">[***www.CareX.lk***](https://care-x.github.io/landing-page)</span>
 
-> Download Our Android App :- <span title="Download our Android App here">[CareX App](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)</span>
+> Download Our Android App :- <span title="Download our Android App here">[***CareX App***](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)</span>
 
 > Try and enjoy it.
 
