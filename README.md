@@ -42,7 +42,7 @@
 #
 ## Follow Us on Social Media
 
-<a href="https://www.facebook.com/people/CareX/100087295841494"><img src="https://img.icons8.com/fluency/40/facebook-new.png" alt="Facebook Icon" title="Facebook"/></a> <a href="https://twitter.com/CareX2022"><img src="https://img.icons8.com/color/40/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> <a href="https://www.instagram.com/carexnextgen/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/color/40/000000/instagram-new.png" alt="Instagram Icon"/></a> <a href="https://github.com/Care-X"><img src="https://img.icons8.com/fluency/40/000000/github.png" alt="GitHub Icon"/></a>
+<a href="https://www.facebook.com/people/CareX/100087295841494"><img src="https://img.icons8.com/fluency/40/facebook-new.png" alt="Facebook Icon" title="Facebook"/></a> <a href="https://twitter.com/CareX2022"><img src="https://img.icons8.com/color/40/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> <a href="https://www.instagram.com/carexnextgen/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/color/40/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> <a href="https://github.com/Care-X"><img src="https://img.icons8.com/fluency/40/000000/github.png" alt="GitHub Icon"/></a>
 
 
 #
