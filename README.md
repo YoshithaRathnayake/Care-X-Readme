@@ -2,7 +2,7 @@
 <div align="center">Your Personal Health Care Solution</div>
 
 #
-<div align="center"><img src="welcome-page.png" height="500px"></div>
+<div align="center"><img src="welcome-page.png" height="500px" title="Welcome!, to CareX"></div>
 
 ## Hi there, We are CareX <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
