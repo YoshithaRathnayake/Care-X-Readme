@@ -18,7 +18,7 @@
 <img src="care-x_logo.png" height="150px" title="Our Logo">
 
 #
-> Our official website :- <span title="Our official website">[***www.CareX.lk***](https://care-x.github.io/landing-page)</span>
+> Our Official Website :- <span title="Our official website">[***www.CareX.lk***](https://care-x.github.io/landing-page)</span>
 
 > Download Our Android App :- <span title="Download our Android App here">[***CareX App***](https://github.com/Care-X/carex/releases/download/v1.0.16/app-release.apk)</span>
 
