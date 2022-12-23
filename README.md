@@ -27,7 +27,7 @@
 #
 ## Languages and Tools
 
-<img src="https://img.icons8.com/color/40/angularjs.png" alt="Angular" title="Angular"> <img src="https://img.icons8.com/plasticine/40/react.png" alt="React" title="React"> <img src="https://img.icons8.com/color/40/vue-js.png" alt="Vue"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/35px-Laravel.svg.png" alt="Laravel">
+<img src="https://img.icons8.com/color/40/angularjs.png" alt="Angular" title="Angular"> <img src="https://img.icons8.com/plasticine/40/react.png" alt="React" title="React"> <img src="https://img.icons8.com/color/40/vue-js.png" alt="Vue" title="Vue"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/35px-Laravel.svg.png" alt="Laravel">
 
 
 #
